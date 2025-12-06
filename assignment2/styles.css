@@ -4,6 +4,55 @@
     padding: 0;
 }
 
+
+/* ==============================
+Header & Footer Styling
+============================== */
+header,
+footer {
+    background-color: #93d0f4;
+    /* Blue background */
+    text-align: center;
+    /* Center text */
+    padding: 10px 0;
+    /* 10px padding for header and footer */
+    color: #ffffff;
+    /* White text */
+    font-weight: bold;
+}
+
+header {
+    margin-bottom: 20px;
+    /* Increase space below header */
+}
+
+/* ==============================
+Table Styling 
+============================== */
+
+table {
+    border-collapse: collapse;
+    /* Merge borders into clean solid lines */
+    width: 100%;
+    /* Stretch table to right end of page */
+    margin: 0px 0;
+    border: 1px solid #ddd;
+    /* 1px solid #ddd outer border */
+}
+
+
+th,
+td {
+    border: 1px solid #ddd;
+    /* 1px solid #ddd for all cells */
+    padding: 10px;
+    /* 10px padding for all cells */
+    text-align: left;
+    /* Left-aligned text */
+    vertical-align: middle;
+}
+
+
 /* Body styling */
 body {
     font-family: Arial, sans-serif;
@@ -13,4 +62,21 @@ body {
     padding: 20px;
 }
 
-/* Add in your own customisations */
+/* ==============================
+Sections & Links
+============================== */
+section {
+    margin-bottom: 25px;
+}
+
+
+ul {
+    padding-left: 20px;
+}
+
+
+li a {
+    color: #0079c1;
+    /* Hyperlink color */
+    text-decoration: none;
+}
