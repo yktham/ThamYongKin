@@ -18,12 +18,20 @@ footer {
     /* 10px padding for header and footer */
     color: #ffffff;
     /* White text */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Font */
     font-weight: bold;
+    /* ADDITONAL ADD-ONS FOR HEADER AND FOOTER STYLING*/
 }
 
 header {
     margin-bottom: 20px;
     /* Increase space below header */
+}
+
+footer {
+    font-size: 12px;
+    /* Size */
 }
 
 /* ==============================
@@ -35,14 +43,19 @@ table {
     /* Merge borders into clean solid lines */
     width: 100%;
     /* Stretch table to right end of page */
-    margin: 0px 0;
+    margin: 20px 0;
     border: 1px solid #ddd;
     /* 1px solid #ddd outer border */
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    overflow: hidden;
+     /* ADDITONAL ADD-ONS FOR TABLE STYLING*/
 }
-
 
 th,
 td {
+
     border: 1px solid #ddd;
     /* 1px solid #ddd for all cells */
     padding: 10px;
@@ -50,6 +63,15 @@ td {
     text-align: left;
     /* Left-aligned text */
     vertical-align: middle;
+}
+
+th {
+    background-color: #e9f4fb;
+    /* soft blue header */
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    /* ADDITONAL ADD-ONS FOR TABLE STYLING*/
 }
 
 
