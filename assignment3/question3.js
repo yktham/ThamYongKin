@@ -6,3 +6,10 @@ const disneyData = {
 };
 
 // Write your code below
+const result =
+  Number(disneyData.open) -
+  Number(disneyData.high) +
+  Number(disneyData.low) -
+  Number(disneyData.close);
+
+console.log(result.toFixed(2));
