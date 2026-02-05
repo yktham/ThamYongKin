@@ -1,7 +1,10 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* styles.css */
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -10,6 +13,7 @@
 .blog-post {
   margin-bottom: 20px;
   padding: 10px;
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
   border: 1px solid #ccc; /* Default border for public posts */
@@ -21,6 +25,8 @@
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
   border: 1px solid #ccc; /* Public posts have border */
 }
 
@@ -29,6 +35,9 @@
   border: none;
   background-color: #f9f9f9;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -45,7 +54,10 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Author/date */
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -58,7 +70,11 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* BlogList styles */
+=======
+/* BlogList */
+>>>>>>> Stashed changes
 =======
 /* BlogList */
 >>>>>>> Stashed changes
@@ -71,6 +87,7 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Header styles */
 header {
   background-color: #333;
@@ -78,11 +95,16 @@ header {
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 /* Header */
 header {
   background-color: #333;
   color: white;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -101,7 +123,11 @@ header p {
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Footer styles */
+=======
+/* Footer */
+>>>>>>> Stashed changes
 =======
 /* Footer */
 >>>>>>> Stashed changes
@@ -116,6 +142,7 @@ footer {
   color: #888;
 }
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 /* Featured / Private posts section */
@@ -144,12 +171,18 @@ footer {
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 /* App container */
 .app {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+}
+>>>>>>> Stashed changes
+=======
 }
 >>>>>>> Stashed changes
 =======
