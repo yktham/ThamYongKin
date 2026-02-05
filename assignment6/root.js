@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 // root.js
 
+=======
+>>>>>>> Stashed changes
 function Header() {
   return (
     <header>
@@ -17,7 +20,10 @@ function Footer() {
   );
 }
 
+<<<<<<< Updated upstream
 // BlogPost component
+=======
+>>>>>>> Stashed changes
 function BlogPost({ title, author, date, content, isPrivate }) {
   return (
     <div className={`blog-post${isPrivate ? ' private-post' : ''}`}>
@@ -26,8 +32,12 @@ function BlogPost({ title, author, date, content, isPrivate }) {
       <p>
         {isPrivate
           ? "The content of this post is private"
+<<<<<<< Updated upstream
           : content
         }
+=======
+          : content}
+>>>>>>> Stashed changes
       </p>
     </div>
   );
@@ -56,28 +66,44 @@ function App() {
       title: "My First Blog Post",
       author: "John Doe",
       date: "June 1, 2023",
+<<<<<<< Updated upstream
       content: "Welcome to my first blog post! Today, I want to share my journey into the world of blogging.",
+=======
+      content: "Welcome to my first blog post! Today, I want to share my journey into the world of blogging. It has been an exciting experience so far, and i cant't wait to see where this path leads me.",
+>>>>>>> Stashed changes
       isPrivate: true,
     },
     {
       title: "My Second Blog Post",
       author: "Jane Smith",
       date: "June 5, 2023",
+<<<<<<< Updated upstream
       content: "In this post, I’m discussing the importance of work-life balance. It's essential to find time for both professional and personal activites to maintain overall well-being.",
+=======
+      content: "In this post, I’m discussing the importance of work-life balance. It's essential to find time for both professional and personal activities to maintain overall well-being.",
+>>>>>>> Stashed changes
       isPrivate: false,
     },
     {
       title: "A Day in the Life",
       author: "Alice Johnson",
       date: "June 10, 2023",
+<<<<<<< Updated upstream
       content: "Ever wondered what a day in my life looks like? Join me as I walk through my daily routine, from morning cofee to evening relaxation.",
+=======
+      content: "Ever wondered what a day in my life looks like? Join me as I walk you through my daily routine, from morning coffee to evening relaxation",
+>>>>>>> Stashed changes
       isPrivate: false,
     },
     {
       title: "Tips for Healthy Eating",
       author: "Bob Lee",
       date: "June 15, 2023",
+<<<<<<< Updated upstream
       content: "Eating healthy doesn’t have to be complicated.",
+=======
+      content: "Eating healthy doesn’t have to be complicated. Here are some simple and practical tips to help you make better food choices every day.",
+>>>>>>> Stashed changes
       isPrivate: true,
     },
     {
