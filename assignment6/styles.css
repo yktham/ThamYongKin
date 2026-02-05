@@ -1,32 +1,7 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* styles.css */
-
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /* BlogPost styles */
 .blog-post {
   margin-bottom: 20px;
   padding: 10px;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  border: 1px solid #ccc; /* Default border for public posts */
-}
-
-.blog-post.private-post {
-  border: none; /* Remove border for private posts */
-  background-color: #f9f9f9; /* Optional: light background to distinguish */
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   border: 1px solid #ccc; /* Public posts have border */
 }
 
@@ -34,13 +9,6 @@
 .blog-post.private-post {
   border: none;
   background-color: #f9f9f9;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 }
 
 .blog-post.featured {
@@ -52,62 +20,21 @@
   margin-bottom: 10px;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* Author/date */
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 .blog-post .meta {
   font-style: italic;
   color: #888;
   margin-bottom: 10px;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* BlogList styles */
-=======
 /* BlogList */
->>>>>>> Stashed changes
-=======
-/* BlogList */
->>>>>>> Stashed changes
-=======
-/* BlogList */
->>>>>>> Stashed changes
 .blog-list {
   margin-top: 20px;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* Header styles */
-header {
-  background-color: #333;
-  color: #fff;
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /* Header */
 header {
   background-color: #333;
   color: white;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
   padding: 20px;
   text-align: center;
 }
@@ -121,19 +48,7 @@ header p {
   font-size: 18px;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* Footer styles */
-=======
 /* Footer */
->>>>>>> Stashed changes
-=======
-/* Footer */
->>>>>>> Stashed changes
-=======
-/* Footer */
->>>>>>> Stashed changes
 footer {
   background-color: #f0f0f0;
   padding: 20px;
@@ -142,49 +57,9 @@ footer {
   color: #888;
 }
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/* Featured / Private posts section */
-.private-posts {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  padding: 20px;
-  background-color: #f9f9f9;
-}
-
-.private-posts h2 {
-  font-size: 24px;
-  margin-bottom: 10px;
-}
-
-.private-posts .meta {
-  font-style: italic;
-  color: #888;
-}
-
-/* App styles */
-.app {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
 /* App container */
 .app {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 }
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
-=======
-}
->>>>>>> Stashed changes
