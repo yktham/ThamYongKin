@@ -1,12 +1,16 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* styles.css */
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 /* BlogPost styles */
 .blog-post {
   margin-bottom: 20px;
   padding: 10px;
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   border: 1px solid #ccc; /* Default border for public posts */
 }
@@ -15,6 +19,8 @@
   border: none; /* Remove border for private posts */
   background-color: #f9f9f9; /* Optional: light background to distinguish */
 =======
+=======
+>>>>>>> Stashed changes
   border: 1px solid #ccc; /* Public posts have border */
 }
 
@@ -22,6 +28,9 @@
 .blog-post.private-post {
   border: none;
   background-color: #f9f9f9;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 }
 
@@ -35,7 +44,10 @@
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Author/date */
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 .blog-post .meta {
@@ -45,7 +57,11 @@
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* BlogList styles */
+=======
+/* BlogList */
+>>>>>>> Stashed changes
 =======
 /* BlogList */
 >>>>>>> Stashed changes
@@ -54,15 +70,21 @@
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Header styles */
 header {
   background-color: #333;
   color: #fff;
 =======
+=======
+>>>>>>> Stashed changes
 /* Header */
 header {
   background-color: #333;
   color: white;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   padding: 20px;
   text-align: center;
@@ -78,7 +100,11 @@ header p {
 }
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* Footer styles */
+=======
+/* Footer */
+>>>>>>> Stashed changes
 =======
 /* Footer */
 >>>>>>> Stashed changes
@@ -90,6 +116,7 @@ footer {
   color: #888;
 }
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 /* Featured / Private posts section */
 .private-posts {
@@ -115,10 +142,16 @@ footer {
   margin: 0 auto;
   padding: 20px;
 =======
+=======
+>>>>>>> Stashed changes
 /* App container */
 .app {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+<<<<<<< Updated upstream
+}
+>>>>>>> Stashed changes
+=======
 }
 >>>>>>> Stashed changes
